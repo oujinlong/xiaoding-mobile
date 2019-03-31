@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta content="telephone=no" name="format-detection">
+    <title>顶呱呱专业贷款平台 </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <script type="text/javascript" src="js/flexble.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/public.css"/>
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
+    <link rel="stylesheet" href="css/swiper.min.css"/>
+    <link rel="stylesheet" href="css/demolition.css"/>
+</head>
+
+<body class="mhome">
+<div class="content" style="background-color: #f3f1fe;">
+    <!--header-->
+    <div class="header">
+        <div class="logo">
+            <img src="images/logo_03.jpg"/>
+        </div>
+        <div class="del">
+            <a href="tel:400-666-5987"><span> 免费热线：<b>400-666-5987</b></span></a>
+        </div>
+    </div>
+
+    <div id="banner" class="swiper-container banner" style="width: 100%;">
+        <!--swiper容器[可以随意更改该容器的样式-->
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="images/banner-04.jpg"></div>
+        </div>
+    </div>
+    <!--banner-->
+    <!--电话-->
+    <div class="btn-box">
+        <a href="tel:400-666-5987">
+            热线电话：400-666-5987
+            <b class="orange">一键拨打</b>
+
+        </a>
+    </div>
+    <!--电话-->
+
+    <!--表单 start-->
+    <div class="loan-box">
+        <div class="box box1 box-shadow">
+            <form class="form-box box-shadow" id="message">
+                <div class="tt-box" style="text-align: center;font-family: '微软雅黑';margin: 0 auto;padding-top: 0.26rem;">
+                    <span><img src="images/zuo.png" style="float: left;width: 20%;padding-top: 0.26rem;"></span><b><font
+                        class="333333">快速申请贷款</font></b><span><img src="images/you.png"
+                                                                   style="float: right;width: 20%;padding-top: 0.26rem;"></span>
+
+                    <p>快速响应，10分钟回电</p>
+                </div>
+                <div class="form-group">
+                    <input class="blur_event suoxuEd1" name="info[content]" data-name="dkje" type="tel" placeholder="请输入所需额度"
+                           tips="请输入所需额度"/>
+                    <em>万</em>
+                </div>
+                <div class="form-group">
+                    <input class="blur_event usre_phoneNumber1" type="text" name="info[name]" placeholder="请输入您的姓名"/>
+                </div>
+                <div class="form-group">
+                    <input class="blur_event usre_phoneNumber1" type="tel" name="info[tel]" placeholder="请输入您的联系方式"/>
+                </div>
+                <button type="button" onclick="submit_msg('#message','dk|cd|pc|zy3')" class="btn-sub-apply ">立即申请贷款</button>
+                <p class="ps-text">*顶呱呱承诺 ! 以上信息我们将严格保密 ! 绝不泄露 !</p>
+            </form>
+        </div>
+    </div>
+    <!--表单 end -->
+    <div class="gundong"
+         style="background: url('images/bj.png') no-repeat center;background-size: 90% 100%;background-color: #FFFFFF;overflow: hidden;padding: 0.2rem 0;">
+        <div class="gundong1">
+            <h3 style="padding: 0.1rem 0;"><img src="images/laba.png">每天有超400名客户通过此渠道成功获得贷款</h3>
+
+            <div class="scrollDiv" id="s2">
+                <ul>
+                    <li>186-xxxx-6985王先生凭公积金成功贷款50万，月息4厘4</li>
+                    <li>135-xxxx-5986李先生凭汽车抵押成功贷款30万，月息3厘8</li>
+                    <li>182-xxxx-5698向女士凭房产抵押成功贷款30万，月息3厘</li>
+                    <li>136-xxxx-5897王先生凭公积金成功贷款20万，月息4厘4</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="gxd">
+        <ul>
+            <li style="width: 16%;text-align: center;">
+                <img src="images/gx.png" style="width: 80%;">
+
+            </li>
+            <li style="width: 60%;margin-top: 0.1rem;">
+                <span style="color: #333333;font-family: '微软雅黑';font-size: 0.4rem;font-weight:bold">工薪贷<br></span>
+                <samp style="color: #666666;font-family: '微软雅黑';">有工作即可贷（凭借社保、公积金）</samp><br/>
+                <samp style="color: #666666;font-family: '微软雅黑';">额度<span style="color: #f75e05">2-60万元</span> 利息低至<span
+                        style="color: #f75e05">3厘</span></samp>
+            </li>
+            <li style="text-align: center;">
+                <a href="javascript:qiao();" class="red-nav apply-btn">一键申请</a>
+            </li>
+        </ul>
+    </div>
+    <div class="gxd">
+        <ul>
+            <li style="width: 16%;text-align: center;">
+                <img src="images/bd.png" style="width: 80%;">
+
+            </li>
+            <li style="width: 60%;margin-top: 0.1rem;">
+                <span style="color: #333333;font-family: '微软雅黑';font-size: 0.4rem;font-weight:bold">保单贷<br></span>
+                <samp style="color: #666666;font-family: '微软雅黑';">有商业保单即可贷</samp><br/>
+                <samp style="color: #666666;font-family: '微软雅黑';">额度<span style="color: #f75e05">2-100万元</span>
+                    利息低至<span
+                            style="color: #f75e05">3厘2</span></samp>
+            </li>
+            <li style="text-align: center;">
+                <a href="javascript:qiao();" class="red-nav apply-btn">一键申请</a>
+            </li>
+        </ul>
+    </div>
+    <div class="gxd">
+        <ul>
+            <li style="width: 16%;text-align: center;">
+                <img src="images/qc.png" style="width: 80%;">
+
+            </li>
+            <li style="width: 60%;margin-top: 0.1rem;">
+                <span style="color: #333333;font-family: '微软雅黑';font-size: 0.4rem;font-weight:bold">汽车抵押贷<br></span>
+                <samp style="color: #666666;font-family: '微软雅黑';">有车即可贷，无需押车，不装GPS</samp><br/>
+                <samp style="color: #666666;font-family: '微软雅黑';">额度高达评估价<span style="color: #f75e05">9成</span>
+                    利息低至<span style="color: #f75e05">3厘5</span></samp>
+            </li>
+            <li style="text-align: center;">
+                <a href="javascript:qiao();" class="red-nav apply-btn">一键申请</a>
+            </li>
+        </ul>
+    </div>
+    <div class="gxd">
+        <ul>
+            <li style="width: 16%;text-align: center;">
+                <img src="images/fd.png" style="width: 80%;">
+
+            </li>
+            <li style="width: 60%;margin-top: 0.1rem;">
+                <span style="color: #333333;font-family: '微软雅黑';font-size: 0.4rem;font-weight:bold">房产抵押贷<br></span>
+                <samp style="color: #666666;font-family: '微软雅黑';">有房产证即可贷，额度高，放款快</samp><br/>
+                <samp style="color: #666666;font-family: '微软雅黑';">额度高达<span style="color: #f75e05">3千万</span>元 利息低至<span
+                        style="color: #f75e05">2厘5</span></samp>
+            </li>
+            <li style="text-align: center;">
+                <a href="javascript:qiao();" class="red-nav apply-btn">一键申请</a>
+            </li>
+        </ul>
+    </div>
+    <div class="gxd">
+        <ul>
+            <li style="width: 16%;text-align: center;">
+                <img src="images/sy.png" style="width: 80%;">
+
+            </li>
+            <li style="width: 60%;margin-top: 0.1rem;">
+                <span style="color: #333333;font-family: '微软雅黑';font-size: 0.4rem;font-weight:bold">生意贷<br></span>
+                <samp style="color: #666666;font-family: '微软雅黑';">有营业执照、实际经营场所即可贷</samp><br/>
+                <samp style="color: #666666;font-family: '微软雅黑';">额度<span style="color: #f75e05">5-500万元</span>
+                    利息低至<span style="color: #f75e05">3厘</span></samp>
+            </li>
+            <li style="text-align: center;">
+                <a href="javascript:qiao();" class="red-nav apply-btn">一键申请</a>
+            </li>
+        </ul>
+    </div>
+    <div class="gxd">
+        <ul style="border-bottom: 1px solid #eee;">
+            <li style="width: 16%;text-align: center;">
+                <img src="images/wd2.png" style="width: 80%;">
+
+            </li>
+            <li style="width: 60%;margin-top: 0.1rem;">
+                <span style="color: #333333;font-family: '微软雅黑';font-size: 0.4rem;font-weight:bold">应急贷款<br></span>
+                <samp style="color: #666666;font-family: '微软雅黑';">有微粒贷、芝麻信用分就能贷</samp><br/>
+                <samp style="color: #666666;font-family: '微软雅黑';">额度<span style="color: #f75e05">2-20万元</span> 利息低至<span
+                        style="color: #f75e05">3厘5</span></samp>
+            </li>
+            <li style="text-align: center;">
+                <a href="javascript:qiao();" class="red-nav apply-btn">一键申请</a>
+            </li>
+        </ul>
+    </div>
+    <div class="gddk">
+        <a href="javascript:qiao();" class="red-nav apply-btn">更多贷款咨询</a>
+
+        <p><img src="images/jt.png" style="width: 4%;"></p>
+    </div>
+
+    <div class="jblc" style="margin-top: 0.2rem;height: 3.4rem;background-color: #FFFFFF;">
+        <div class="tt-box">
+            <div class="jzs2">
+                <ul>
+                    <li><img src="images/zuo.png"></li>
+                    <li style="width: 40%;    white-space: nowrap;"><h4>简便流程，快速放款</h4></li>
+                    <li><img src="images/you.png"></li>
+                </ul>
+            </div>
+
+            <ul style="width: 100%;margin-left: 7%;padding-top: 0.6rem;">
+                <li style="width: 16%;height: 40px;float: left;background-color: #ffa433;line-height: 40px;color: #FFFFFF;">
+                    在线申请
+                </li>
+                <li style="width: 7%;float: left;line-height: 40px;">
+                    <img src="images/yjt.png" style="width: 40%;">
+                </li>
+                <li style="width: 16%;height: 40px;float: left;background-color: #ffa433;line-height: 40px;color: #FFFFFF;">
+                    回电接洽
+                </li>
+                <li style="width: 7%;float: left;line-height: 40px;">
+                    <img src="images/yjt.png" style="width: 40%;">
+                </li>
+                <li style="width: 16%;height: 40px;float: left;background-color: #ffa433;line-height: 40px;color: #FFFFFF;">
+                    审核流程
+                </li>
+                <li style="width: 7%;float: left;line-height: 40px;">
+                    <img src="images/yjt.png" style="width: 40%;">
+                </li>
+                <li style="width: 16%;height: 40px;float: left;background-color: #ffa433;line-height: 40px;color: #FFFFFF;padding-bottom: 0.1rem;">
+                    成功放款
+                </li>
+
+            </ul>
+        </div>
+
+    </div>
+    <div class="ldcr" style="margin-top: 0.2rem;background: url('images/bj8.png') no-repeat;background-size: 100% 100%;">
+        <div class="tt-box1"
+             style="text-align: center;font-family: '微软雅黑';margin: 0 auto;padding-top: 0.26rem;background-color:#FFFFFF;height: 6.7rem;background: url('images/bj8.png') no-repeat;background-size: 100% 100%;">
+            <div class="jzs3">
+                <ul>
+                    <li><img src="images/zuo.png"></li>
+                    <li style="width: 40%;"><h4>顶呱呱6大承诺</h4></li>
+                    <li><img src="images/you.png"></li>
+                </ul>
+
+            </div>
+            <p style="color: #666666;">客户的口碑就是我们的生命线</p>
+
+            <ul style="width: 100%;">
+                <li style="width: 48%;float: left;margin-top: 0.5rem;margin-left: 2%;">
+                    <span style="height: 35px;width: 20%;background-color: #ffa433;display:inline-block;line-height: 35px;color: #FFFFFF;float: left;">01</span>
+                    <samp style="font-size: 0.26rem;margin-left: 2%;float: left;font-family: '微软雅黑';line-height: 35px;">专业顾问、一对一全程服务</samp>
+                </li>
+                <li style="width: 48%;float: left;margin-top: 0.5rem;margin-left: 2%;">
+                    <span style="height: 35px;width: 20%;background-color: #ffa433;display:inline-block;line-height: 35px;color: #FFFFFF;float: left;">02</span>
+                    <samp style="font-size: 0.26rem;margin-left: 2%;float: left;font-family: '微软雅黑';line-height: 35px;">银行现场驻点、快速审批</samp>
+                </li>
+                <li style="width: 48%;float: left;margin-top: 0.5rem;margin-left: 2%;">
+                    <span style="height: 35px;width: 20%;background-color: #ffa433;display:inline-block;line-height: 35px;color: #FFFFFF;float: left;">03</span>
+                    <samp style="font-size: 0.26rem;margin-left: 2%;float: left;font-family: '微软雅黑'; line-height: 35px;">严格保护客户隐私、绝不泄露</samp>
+                </li>
+                <li style="width: 48%;float: left;margin-top: 0.5rem;margin-left: 2%;">
+                    <span style="height: 35px;width: 20%;background-color: #ffa433;display:inline-block;line-height: 35px;color: #FFFFFF;float: left;">04</span>
+                    <samp style="font-size: 0.26rem;margin-left: 2%;float: left;font-family: '微软雅黑';line-height: 35px;">节点全反馈，进度更清楚</samp>
+                </li>
+                <li style="width: 48%;float: left;margin-top: 0.5rem;margin-left: 2%;">
+                    <span style="height: 35px;width: 20%;background-color: #ffa433;display:inline-block;line-height: 35px;color: #FFFFFF;float: left;">05</span>
+                    <samp style="font-size: 0.26rem;margin-left: 2%;float: left;font-family: '微软雅黑';line-height: 35px;color: #333333;">明确告知各类风险，风控有保障</samp>
+                </li>
+                <li style="width: 48%;float: left;margin-top: 0.5rem;margin-left: 2%;">
+                    <span style="height: 35px;width: 20%;background-color: #ffa433;display:inline-block;line-height: 35px;color: #FFFFFF;float: left;">06</span>
+                    <samp style="font-size: 0.26rem;margin-left: 2%;float: left;font-family: '微软雅黑';line-height: 35px;">利息清楚、收费透明</samp>
+                </li>
+
+            </ul>
+        </div>
+        <div class="btn-box">
+            <a href="tel:400-666-5987">
+                热线电话：400-666-5987
+                <b class="orange">一键拨打</b>
+
+            </a>
+        </div>
+
+    </div>
+    <div class="jzsl">
+        <img src="images/sljz.png" alt="">
+    </div>
+
+    <div class="dibu">
+        Copyright 1996-2018 北京顶呱呱企业管理有限公司 版权所有<br>
+        京公网安备:11010502031545号 | 京ICP备16006021号-1
+    </div>
+    <!--底部 start-->
+    <div class="footer">
+        <div class="footer-nav">
+            <a href="tel:400-666-5987" class="default-nav">电话咨询</a>
+            <a href="javascript:qiao();" class="red-nav apply-btn">在线咨询</a>
+        </div>
+    </div>
+    <!--底部 end-->
+
+    <!--表单弹窗 start-->
+    <div class="fromPop-box">
+        <div class="loan-box2">
+            <div class="box box1 box-shadow">
+                <form class="form-box box-shadow" id="messageForms">
+                    <div class="tt-box"
+                         style="text-align: center;font-family: '微软雅黑';margin: 0 auto;padding-top: 0.26rem;">
+                        <span><img src="images/zuo.png"
+                                   style="float: left;width: 20%;padding-top: 0.26rem;"></span><b><font class="333333">在线快速申请</font></b><span>
+                        <img src="images/you.png" style="float: right;width: 20%;padding-top: 0.26rem;">
+                    </span>
+
+                        <p>22~60岁即可申请</p>
+                    </div>
+                    <div class="form-group">
+                        <input name="info[content]" class="blur_event suoxuEd2" type="tel" data-name="dkje"
+                               placeholder="输入所需金额"/>
+                        <em>万</em>
+                    </div>
+                    <div class="form-group">
+                        <input class="blur_event usre_phoneNumber2" type="text" name="info[name]" placeholder="请输入您的姓名"/>
+                    </div>
+                    <div class="form-group">
+                        <input class="blur_event usre_phoneNumber2" type="tel" name="info[tel]" placeholder="请输入您的手机号码"/>
+                    </div>
+
+                    <button type="button" onclick="submit_msg('#messageForms','dk|cd|pc|zy3')" class="btn-sub-apply "><b>立即申请贷款</b></button>
+                    <p class="ps-text">*顶呱呱郑重承诺：以上信息严格保密</p>
+                </form>
+                <div class="close-btn">X</div>
+            </div>
+        </div>
+    </div>
+    <!--表单弹窗 end-->
+</div>
+
+<script src="js/new_file.js"></script>
+<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="js/swiper.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".property label").click(function () {
+            $(".property label").removeClass("label3");
+            $(this).addClass("label3");
+        });
+        $(".certificates label").click(function () {
+            $(".certificates label").removeClass("label3");
+            $(this).addClass("label3")
+        });
+        $(".debt label").click(function () {
+            $(".debt label").removeClass("label3");
+            $(this).addClass("label3")
+        });
+        $(".lai label").click(function () {
+            $(".lai label").removeClass("label3");
+            $(this).addClass("label3")
+        });
+        $(".protection label").click(function () {
+            $(".protection label").removeClass("label3");
+            $(this).addClass("label3")
+        });
+        $(".protection2 label").click(function () {
+            $(".protection2 label").removeClass("label3");
+            $(this).addClass("label3")
+        });
+        $(".protection3 label").click(function () {
+            $(".protection3 label").removeClass("label3");
+            $(this).addClass("label3")
+        });
+        $(".protection4 label").click(function () {
+            $(".protection4 label").removeClass("label3");
+            $(this).addClass("label3")
+        });
+        $('.close-btn').click(function () {
+            $('#ejForm1').hide();
+        })
+    });
+
+
+    //banner
+    var mySwiper = new Swiper('.banner', {
+        loop: true,
+        autoplay: 3000,
+        click: function (e) {
+            $(".fromPop-box").fadeIn();
+        },
+        autoplayDisableOnInteraction: false, //滑动后自动播放不会禁止
+        pagination: ".swiper-pagination"
+    });
+
+    $(".apply-btn").click(function () {
+        $(".fromPop-box").fadeIn();
+    });
+    $(".close-btn").click(function () {
+        $(".fromPop-box").fadeOut();
+    })
+</script>
+<!-- Swiper JS -->
+<script src="js/new_file.js"></script>
+<!-- Initialize Swiper -->
+<script src="http://www.cddgg.com/com_code/message.js"></script>
+<script src="http://www.cddgg.com/com_code/layer.js"></script>
+<script src="http://www.cddgg.com/com_code/layer/layer.js"></script>
+
+</body>
+
+</html>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?285db59b7e81c032bb9b696434a4e4a0";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+    function qiao() {
+        window.open('http://p.qiao.baidu.com/cps/chat?siteId=12078809&userId=22810267');
+    }
+
+</script>

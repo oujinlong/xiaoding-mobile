@@ -1,0 +1,10 @@
+.banner{
+    position: relative;
+    z-index: 1;
+}
+.hlw-cont{
+    position: relative;
+    z-index: 3;
+    margin-top:-4rem;
+    background: transparent;
+}

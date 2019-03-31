@@ -1,0 +1,190 @@
+/**
+ *author:lyh
+ *time:2018/7/
+ *content:加盟页
+*/
+.content-page{
+    width: 100%;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.join-us-box{
+    width: 7.5rem;
+}
+.join-page{
+    text-align: center;
+    padding: .5rem .2rem;
+}
+.join-page .tab-catalog-00{
+    border: 1px solid #10bbb8;
+    font-size: 0;
+}
+.join-page .tab-catalog-00 a{
+    position: relative;
+    padding: .1rem 0;
+    font-size: .3rem;
+    color:#10bbb8;
+    background: #fff;
+    width: 25%;
+}
+.join-page .tab-catalog-00 a.atthis{
+    color: #fff;
+    background:#10bbb8 ;
+}
+.join-page .tab-catalog-00 a:after{
+    content: "";
+    width: 1px;
+    height: .55rem;
+    background: #10bbb8;
+    position: absolute;
+    right: 0;
+    top:0;
+}
+.join-page .tab-catalog-00 a.last:after{
+    width: 0;
+}
+/*滑动*/
+.swiper-slide,
+.swiper-wrapper {
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    width: 100%;
+
+}
+.swiper-pagination,
+.swiper-wrapper {
+    -webkit-transform: translate3d(0, 0, 0);
+}
+.swiper-container {
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    background: url("../images/bg.jpg") no-repeat;
+    padding: 1rem 0 .6rem;
+    text-align: center;
+    background-size: cover;
+}
+.swiper-container-vertical > .swiper-wrapper {
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -ms-flex-direction: column;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+.swiper-wrapper {
+    z-index: 1;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    -ms-transition-property: -ms-transform;
+    transition-property: transform;
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate(0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.swiper-slide,
+.swiper-wrapper {
+    -ms-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+}
+.swiper-container-multirow > .swiper-wrapper {
+    -webkit-box-lines: multiple;
+    -moz-box-lines: multiple;
+    -ms-fles-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.swiper-container-free-mode > .swiper-wrapper {
+    -webkit-transition-timing-function: ease-out;
+    -moz-transition-timing-function: ease-out;
+    -ms-transition-timing-function: ease-out;
+    -o-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+    margin: 0 auto;
+}
+.swiper-slide {
+    -webkit-flex-shrink: 0;
+    -ms-flex: 0 0 auto;
+    flex-shrink: 0;
+}
+.swiper-slide a {
+    display: block;
+}
+.swiper-slide a img {
+    width: 6.23rem;
+    height: 3.53rem !important;
+}
+.swiper-pagination {
+    position: absolute;
+    text-align: center;
+    -webkit-transition: 300ms;
+    -moz-transition: 300ms;
+    -o-transition: 300ms;
+    transition: 300ms;
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    z-index: 10;
+}
+.swiper-pagination-bullet {
+    width: 0.13rem;
+    height: 0.13rem;
+    display: inline-block;
+    border-radius: 50%;
+    background: #fff;
+    border: 1px solid #fff;
+}
+.swiper-pagination-bullet-active {
+    opacity: 1;
+    background: transparent;
+}
+.swiper-container-horizontal > .swiper-pagination {
+    bottom: .18rem;
+    left: 0;
+    width: 100%;
+}
+.swiper-container-horizontal > .swiper-pagination .swiper-pagination-bullet {
+    margin: 0 5px;
+}
+/*即刻申请    开启财富共享新模式 start*/
+.apply-form{
+    text-align: center;
+    padding: .5rem 1rem;
+    /*background: #eff3f7;*/
+}
+.apply-form h3{
+    font-size: .26rem;
+    color:#10bbb8;
+    margin-bottom: .1rem;
+}
+.apply-form form input{
+    width: 100%;
+    padding: .15rem;
+    border: 1px solid #999;
+    font-size: .2rem;
+    color:#000;
+    margin-top: .15rem;
+}
+.apply-form form a{
+    width: 100%;
+    padding: .15rem;
+    font-size: .26rem;
+    font-weight: bold;
+    color: #fff;
+    background: #10bbb8;
+    margin-top: .2rem;
+}

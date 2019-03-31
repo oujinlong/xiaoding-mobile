@@ -1,0 +1,290 @@
+/*公司注册页面
+ * clz
+ * time:2018-5-17
+ * */
+/*页面公用 start*/
+
+/*数据  start*/
+
+/*数据  end*/
+.sj{
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+	height: 1.1rem;
+	padding: 0 .2rem;
+	border-bottom: 1px solid #d3efc6;
+	margin-bottom:.15rem ;
+}
+.sj>li{
+	width: 33.33%;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+.sj h6{
+	color: #585858;	
+	font-size: .24rem;
+}
+.sj .img-box{
+	width: 17%;
+	margin-right: .2rem;
+}
+.sj p{
+	color: #8d8d8d;	
+	font-size: .2rem;
+}
+/*表单 start*/
+.form-content{
+	padding: 0 .3rem .3rem .3rem;
+	background: url("../images/bg_03.jpg.html");
+}
+.form-box{
+	padding: 0 0 .2rem 0;
+	background: #fff;
+	border-radius: 5px;
+	margin-top: -.4rem;
+	z-index: 20;
+	position: relative;
+	box-shadow: 0 0 5px 5px #76bb72;
+}
+.form-group{
+	position: relative;
+	margin: 0 .3rem .15rem .3rem;
+}
+.form-group input,.form-group select{
+	width: 100%;
+	line-height: .9rem;
+	height: .9rem;
+	color: #afafaf;
+	font-size: .28rem;
+	border: 1px solid #dedede;
+	border-radius: 3px;
+	outline: none;
+	padding-left: .7rem;
+	background: #fff;
+	appearance:none;
+	-moz-appearance:none;
+	-webkit-appearance:none;
+	border-radius: .1rem;
+color: #333;
+
+}
+.form-group .under{
+	color: #6f6f6f;
+	position: absolute;
+	right: .4rem;
+	top: .15rem;
+	font-size: .4rem;
+}
+.form-group font{
+	position: absolute;
+	top: .15rem;
+	left: .2rem;
+	font-size: .42rem;
+	color: #8f8f8f;
+	display: inline-block;
+}
+.form-group  .yw-icon{
+	font-size: .35rem;
+}
+.form-group input:focus{
+	color: #333;
+	outline: none;
+	border: 1px solid #90cf73;
+}
+.form-group input:focus::-webkit-input-placeholder{
+	color: #333;
+}
+::-webkit-input-placeholder{color: #afafaf;}    /* 使用webkit内核的浏览器 */
+:-moz-placeholder{color: #afafaf;}                  /* Firefox版本4-18 */
+::-moz-placeholder{color: #afafaf;}                  /* Firefox版本19+ */
+:-ms-input-placeholder{color: #afafaf;}           /* IE浏览器 */
+.form-box button,.zx-btn{
+	display: block;
+	color: #fff;
+	width: 90%;
+	text-align: center;
+	font-size: .36rem;
+	line-height: .9rem;
+	border-radius: 5px;
+	margin: .1rem .3rem 0 .3rem;
+	font-weight: bold;
+	border-radius: .5rem;
+	 background: linear-gradient(#fbaf04, #f78c0a);
+	 border-bottom: 3px solid #f0dbd1;
+}
+.form-group .code{
+    position: absolute;
+    top: .26rem;
+    right: .2rem;
+    width: 1.8rem;
+    color: #666;
+    text-align: center;
+    line-height: .35rem;
+	border-left: 1px solid #bbb;
+	font-size: .3rem;
+} 
+/*表单  end*/
+
+/*顶呱呱优势start*/
+.ys{
+	padding: 0 .2rem 0 .2rem;
+	position: relative;
+}
+.ys-list{
+	background: url("../images/ys-bg.png") top center no-repeat;
+	padding: .3rem .2rem .7rem .2rem;
+	display: flex;
+	flex-wrap: wrap;
+	border-radius: 10px;
+	background-size: 100% 100%;
+}
+.ys-list>li{
+	width: 48%;
+	text-align: center;
+	background: #97d27c;
+	margin-bottom: .2rem;
+	border-radius: 5px;
+}
+.ys-list>li:nth-child(2n){
+	margin-left: 4%;
+}
+.ys-list h4{
+	font-weight: normal;
+	color: #e6f4e1;
+	font-size: .3rem;
+	line-height: 1;
+	padding: .25rem 0 .15rem 0;
+}
+.ys-list p{
+	color: #e2f2dc;
+	font-size: .25rem;
+	line-height: 1;
+	padding: 0 0 .3rem 0;
+}
+.ys h2{
+	color: #fff;
+	height: .8rem;
+	font-size: .35rem;
+	text-align: center;
+	background-size: 50%;
+	width: 100%;
+	font-weight: normal;
+}
+.ys h2 i{
+	display: inline-block;
+	width: .13rem;
+	height: .32rem;
+	background: url("../images/h-i.png");
+	background-size: 100% 100%;
+	vertical-align: middle;
+	margin: 0 .2rem;
+}
+/*顶呱呱优势end*/
+
+.footer-b{
+	color: #cce7c0;
+	text-align: center;
+	padding: .2rem 0 .2rem 0;
+	font-size: .2rem;
+	background: url("../images/bg_03.jpg.html");
+}
+
+/**/
+.form-group1{
+	display: flex;
+	flex-wrap: nowrap;
+	margin-bottom: .17rem;
+}
+.form-group1 input,.form-last input{
+	width: 82%;
+	line-height: .85rem;
+	border-radius: 5px;
+	border: 1px solid #cecece;
+	font-size: .3rem;
+	text-indent: .3rem;
+}
+.form-group1 p{
+	font-size: .3rem;
+	line-height: .85rem;
+}
+.form-group1 .p1{
+	width: 2rem;
+}
+.form-group1 .p2{
+	width: 3rem;
+}
+.form-group1 .p5{
+	width: 3rem;
+}
+::-webkit-input-placeholder{color: #5b5d5f;}    /* 使用webkit内核的浏览器 */
+:-moz-placeholder{color: #5b5d5f;}                 /* Firefox版本4-18 */
+::-moz-placeholder{color: #5b5d5f;}                /* Firefox版本19+ */
+:-ms-input-placeholder{color: #5b5d5f;} 
+input[type="radio"] {
+	display: none;
+}
+.form-group1 label{
+	width: 2rem;
+	line-height: .85rem;
+	font-size: .3rem;
+	color: #e0e0e0;
+	text-align: center;
+	border-radius: 5px;
+	border: 1px solid #cecece; 
+	margin-left: .15rem;
+}
+.form-group1 .active{
+	background: #538bfc;
+	color: #fff;
+	border: 1px solid transparent;
+}
+.form-last{
+	display: flex;
+	flex-wrap: nowrap;
+	margin-bottom: .3rem;
+}
+.form-last i{
+	display: inline-block;
+	width: .15rem;
+	height: .15rem;
+	border-radius: 50%;
+	border: 1px solid #e3ebff;
+	vertical-align: middle;
+	margin: 0 .1rem;
+}
+.form-last .active-mark i{
+	border: 1px solid #789fff;
+}
+.form-last label{
+	font-size: .3rem;
+	color: #d6d7d7;
+	line-height: .85rem;
+}
+.form-last>label:first-child{
+	margin-right: .2rem;
+}
+.form-last .active-mark{
+	color: #333;
+}
+.apply button{
+	background: #538bfc;
+	font-size: .25rem;
+	text-align: center;
+	width: 100%;
+	line-height: .85rem;
+	color: #fff;
+	border-radius: .5rem;
+}
+.form-last input{
+	width:22.548% !important;
+	margin-left: .5rem;
+	display: none;
+}
+.more-info-form{
+	background: #fff;
+	padding: .3rem .61rem .3rem .61rem;
+}
+
+        

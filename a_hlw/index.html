@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta content="telephone=no" name="format-detection">
+    <title>网站建设_网络营销_微信小程序开发_APP开发_企业官网建设-顶呱呱互联网营销服务</title>
+    <meta name="keywords" content="网站建设公司,品牌网站建设,微信定制开发,微信小程序,互联网营销,顶呱呱"/>
+    <meta name="description" content="互联网营销就上顶呱呱，专业互联网营销平台，上市集团保障，专注互联网 营销多年，提供专业的建站解决方案，提供专业的互联网营销服务，包括网站建设定制、微信开发、微信小程序开发、微信代运营、APP开发、整合营销等服务。顶呱呱布局全国一线城市，七大分公司，5000+精英顾问，专业的互联网营销团队，营销推广更有保障。"/>
+    <link rel="stylesheet" href="css/public.css"/>
+    <link rel="stylesheet" href="css/index.css"/>
+    <link rel="stylesheet" href="css/js5_1.css"/>
+</head>
+<body>
+<!--header start-->
+<div class="header">
+    <img src="picture/logo.png" class="logo" />
+    <div class="header-right">
+        <a href="tel:400-666-5987" class="xd-tel"><b>400-666-5987</b></a>
+        <!--<a href="javascript:void(0);" class="menu more-menu"></a>-->
+    </div>
+</div>
+
+<!--header end-->
+<div class="content">
+    <!--banner start-->
+    <div class="swiper-container banner">
+        <div class="swiper-wrapper">
+			
+            <div class="swiper-slide">
+                <img src="picture/banner1.jpg" alt=""/>
+                <div class="top-input">
+                                    </div>
+            </div>						 
+        </div>
+        <div class="swiper-pagination banner-pagination"></div>
+    </div>
+    <!--banner end-->
+    <!--为什么不赚钱 start-->
+    <div class="con-piece why-nomon">
+        <div class="big-til">
+            <h3>中小企业网站为什么不赚钱？ </h3>
+        </div>
+        <div class="img"><a href="javascript:void(0)" onclick="qiao()"><img src="picture/img1.png" alt=""/></a></div>
+    </div>
+    <!--为什么不赚钱 end -->
+    <!--顶呱呱能为中小企业做什么？ start -->
+    <div class="con-piece do-what">
+        <div class="big-til">
+            <h3>顶呱呱能为中小企业做什么？</h3>
+        </div>
+        <div class="img"><a href="javascript:void(0)" onclick="qiao()"><img src="picture/img2.png" alt=""/></a></div>
+        <div class="img" onclick="qiao()"><img src="picture/img3.png" alt=""/></div>
+        <div class="img img4" onclick="qiao()"><img src="picture/img4.png" alt=""/><a href="javascript:void(0)"></a></div>
+        <div class="img" onclick="qiao()"><img src="picture/img5.png" alt=""/></div>
+        <div class="img img4" onclick="qiao()"><img src="picture/img6.png" alt=""/><a href="javascript:void(0)"></a></div>
+    </div>
+    <!--顶呱呱能为中小企业做什么？ end -->
+    <!--表单 start-->
+    <div class="bottom-form con-piece">
+    <div class="til">
+        <h3><span>8大分公司</span> 5000+精英为您便捷服务</h3>
+        <p>想要赚钱，赶快留言</p>
+    </div>
+    <form class="form-box" id="messageForm04">
+        <div class="form-group textarea">
+            <input type="text" name="content" placeholder="请输入您的需求" tips="请输入您的需求">
+                    </div>
+        <div class="form-group">
+            <input type="text" name="info[name]" placeholder="请输入您的姓名"/>
+            <span class="name"></span>
+        </div>
+        <div class="form-group">
+            <input type="tel" name="info[tel]" placeholder="请输入您的手机号"/>
+            <span class="tel"></span>
+        </div>
+        <section class="btn-box">
+            <button type="button" class="btn-sub-apply" onclick="submit_msg('#messageForm04','sb|cd|pc|zy3');">立即提交</button>
+        </section>
+    </form>
+</div>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/public.js"></script>
+<script src="js/jquery.zytgform.js"></script>
+<script>
+
+    $(function () {
+        $('form#messageForm').loadForm({'type': 'hlwwz', 'place': 'cq', 'device': 'wap'})
+    });
+
+</script>
+    <!--表单 end-->
+</div>
+<div class="footer">
+    <div class="footer-box">
+        <ul>
+            <li class="active"><a href="../cqm/wz/20171030/xdw.html"><p>首页</p></a></li>
+            <li><a href="javascript:void(0)" onclick="qiao()"><p>在线咨询</p></a></li>
+            <li><a href="tel:400-666-5987"><p>免费电话</p></a></li>
+        </ul>
+    </div>
+</div>
+
+
+
+<script src="js/autosize.js"></script>
+<script src="js/swiper.min.js"></script>
+<script src="http://www.cddgg.com/com_code/message.js"></script>
+<script src="http://www.cddgg.com/com_code/layer.js"></script>
+<script src="http://www.cddgg.com/com_code/layer/layer.js"></script>
+<script>       var mySwiper = new Swiper('.swiper-container', {        loop: true,        autoplay: 3000,        pagination: ".swiper-pagination"    });    var i = 0,        listEle = $(".ban-lc>li");    setInterval(function() {        if(i == 4) {            i = 0        }        listEle.removeClass("on");        listEle.eq(i).addClass("on");        i++;    }, 5000);    var mySwiper = new Swiper('.bottom-slide', {        loop: true,        autoplay: 30000,        pagination: ".swiper-pagination-bottom"    });</script>
+<script>
+    function qiao(){
+        window.open('http://p.qiao.baidu.com/cps/chat?siteId=10184599&userId=22810267');
+    }
+</script>
+</body>
+</html>

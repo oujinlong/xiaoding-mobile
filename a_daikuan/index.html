@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv = "X-UA-Compatible" content = "IE=edge,chrome=1" />
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta content="telephone=no" name="format-detection">
+    <title>小顶贷款</title>
+    <script src="js/zepto.min.js"></script>
+    <script type="text/javascript" src="js/autosize.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/public.css"/>
+    <link rel="stylesheet" href="css/index.css"/>
+</head>
+<body class="mhome">
+<!--内容 start-->
+<div class="content">
+    <!--banner start -->
+    <div class="swiper-container swiper-banner banner">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <a href="javascript:void(0)" id="banner-old">
+                    <img src="picture/bg_03.gif"/>
+                </a>
+				<a href="javascript:void(0)" id="two-banner" style="display:none"><img src="" alt=""/></a>
+            </div>
+        </div>
+    </div>
+    <!--banner  end -->
+
+
+    <!--表单 start-->
+    <div class="form-content">
+        <form class="form-box" id="messageForms">
+            <ul class="sj">
+                <li>
+                    <div class="img-box"><img src="picture/sj-1.png" alt="" /></div>
+                    <div>
+                        <h6>放款快</h6>
+                        <p>快至1小时放款</p>
+                    </div>
+                </li>
+                <li>
+                    <div class="img-box"><img src="picture/sj-2.png" alt="" /></div>
+                    <div>
+                        <h6>额度高</h6>
+                        <p>最高可贷50万</p>
+                    </div>
+                </li>
+                <li>
+                    <div class="img-box"><img src="picture/sj-3.png" alt="" /></div>
+                    <div>
+                        <h6>周期长</h6>
+                        <p>最长可分60期</p>
+                    </div>
+                </li>
+            </ul>
+            <div class="form-group">
+                <select name="city">
+                    <option>请选择您所在的城市</option>
+                    <option>北京</option>
+                    <option>广州</option>
+                    <option>成都</option>
+                    <option>深圳</option>
+                    <option>武汉</option>
+                    <option>杭州</option>
+                    <option>重庆</option>
+                    <option>郑州</option>
+                    <option>佛山</option>
+                    <option>宜昌</option>
+                    <option>长沙</option>
+<option>上海</option>
+<option>石家庄</option>
+                </select>
+                <span class="iconfont under">ˇ</span>
+               <!-- <font class="iconfont yw-icon">&#xe689;</font>-->
+            </div>
+            <div class="form-group">
+                <input type="text" name="info[content]" placeholder="请输入贷款金额（单位：万元）"/>
+              <!--  <font class="iconfont">&#xe994;</font>-->
+            </div>
+            <div class="form-group">
+                <input type="text" name="info[name]" placeholder="请输入您的姓名"/>
+            <!--    <font class="iconfont">&#xe686;</font>-->
+            </div>
+            <div class="form-group">
+                <input type="text" name="info[tel]" placeholder="请输入您的电话"/>
+         <!--       <font class="iconfont">&#xe8a0;</font>-->
+            </div>
+           <!-- <div class="form-group">
+                <input type="text" name="msgCode" placeholder="请输入验证码"/>
+                <font class="iconfont">&#xe63b;</font>
+
+                <button class="code" type="button"  name="getSmsCodeBtn" style="height: .9rem;top: -0.09rem; right: -0.29rem;color: #fff;">获取验证码</button>
+            </div>-->
+            <div>
+                <button type="button" onclick="submit_msg('#messageForms','sb|cd|pc|zy3');"> 立即申请</button>
+            </div>
+        </form>
+        
+		
+		
+		<!-- <form id="ejForm" class="more-info-form" style="display:none">
+        	<h2>请完善您的资料方便快速办理</h2>
+            <div class="form-group1">
+                <p class="p1">年龄:</p>
+                <input type="text" name="age" placeholder="请输入您的年龄"/>
+            </div>
+            <div class="form-group1 room">
+                <p class="p1">是否有房:</p>
+                <label for="isroom1">
+                    月供房
+                    <input type="radio" name="isHouse" value="1" id="isroom1"/>
+                </label>
+                <label for="isroom2">
+                    全款房
+                    <input type="radio" name="isHouse" value="2" id="isroom2"/>
+                </label>
+                <label for="isroom3">
+                    无
+                    <input type="radio" name="isHouse" value="0" id="isroom3"/>
+                </label>
+            </div>
+            <div class="form-group1 car">
+                <p class="p1">是否有车:</p>
+                <label for="icar1" >
+                    月供车
+                    <input type="radio" name="isCar" value="1" id="icar1"/>
+                </label>
+                <label for="icar2">
+                    全款车
+                    <input type="radio" name="isCar" value="2" id="icar2"/>
+                </label>
+                <label for="icar3">
+                    无
+                    <input type="radio" name="isCar" value="0" id="icar3"/>
+                </label>
+            </div>
+            <div class="form-group1 policy">
+                <p class="p2">是否有保单:</p>
+                <label for="ispolicy1" >
+                    有
+                    <input type="radio" name="isGuaranteeSlip" value="0" id="ispolicy1"/>
+                </label>
+                <label for="ispolicy2">
+                    无
+                    <input type="radio" name="isGuaranteeSlip" value="0" id="ispolicy2"/>
+                </label>
+            </div>
+            <div class="form-group1 Social">
+                <p class="p2">是否有社保:</p>
+                <label for="isSocial1" >
+                    有
+                    <input type="radio" name="isSocialSecurity" value="1" id="isSocial1"/>
+                </label>
+                <label for="isSocial2">
+                    无
+                    <input type="radio" name="isSocialSecurity" value="0" id="isSocial2"/>
+                </label>
+            </div>
+            <div class="form-group1 fund">
+                <p class="p2">是否有公积金:</p>
+                <label for="isfund1" >
+                    有
+                    <input type="radio" name="isFund" value="1" id="isfund1"/>
+                </label>
+                <label for="isfund2">
+                    无
+                    <input type="radio" name="isFund" value="0" id="isfund2"/>
+                </label>
+            </div>
+            <div class="form-group1 credit">
+                <p class="p2">是否有信用卡:</p>
+                <label for="iscredit1" >
+                    有
+                    <input type="radio" name="isCreditCard" value="1" id="iscredit1"/>
+                </label>
+                <label for="iscredit2">
+                    无
+                    <input type="radio" name="isCreditCard" value="0" id="iscredit2"/>
+                </label>
+            </div>
+            <div class="form-group1 Particle">
+                <p class="p2">是否有微粒贷：</p>
+                <label for="Particle1" >
+                    有
+                    <input type="radio" name="isOther" value="1" id="Particle1"/>
+                </label>
+                <label for="Particle2">
+                    无
+                    <input type="radio" name="isOther" value="0" id="Particle2"/>
+                </label>
+            </div>
+            <div class="form-group1 formLast">
+                <p class="p3">芝麻信用分</p>
+                <input type="text" name="isOtherValue" placeholder="请输入您的芝麻信用分"/>
+            </div>
+            <div class="apply">
+                <button type="button" id="button">提交信息</button>
+            </div>
+        </form>
+-->
+    </div>
+    <!--表单 end-->
+
+    <!--顶呱呱优势start-->
+    <div class="ys">
+        <h2><i></i>顶呱呱优势<i></i></h2>
+        <ul class="ys-list">
+            <li>
+                <h4>授信额高</h4>
+                <p>最高500000元，在线申请</p>
+            </li>
+            <li>
+                <h4>放款快速</h4>
+                <p>实时审核，快速放款</p>
+            </li>
+            <li>
+                <h4>分期灵活</h4>
+                <p>多种借款周期任选</p>
+            </li>
+            <li>
+                <h4>认证简单</h4>
+                <p>最快一分钟认证，轻松申请</p>
+            </li>
+        </ul>
+    </div>
+    <!--顶呱呱优势end-->
+
+    <p class="footer-b">
+        成都顶呱呱投资集团有限公司<br />
+        蜀ICP备13017994号-2<br />
+        风险提示：投资有风险，借贷需谨慎<br />
+        具体放款时间视情况而定<br />
+        放款方：平安银行<br />
+    </p>
+
+</div>
+<!--内容 end-->
+
+
+
+<!--底部 start-->
+<!--<div class="footer">
+    <div class="footer-nav">
+        <a href="javascript:void(0);" class="default-nav"><i class="iconfont">&#xe622;</i>免费电话咨询</a>
+        <a href="javascript:void(0);" class="orange-nav"><i class="iconfont">&#xe6a7;</i>免费在线咨询</a>
+    </div>
+</div>-->
+<!--底部  end-->
+<script src="http://www.cddgg.com/com_code/message.js"></script>
+<script src="http://www.cddgg.com/com_code/layer.js"></script>
+<script src="http://www.cddgg.com/com_code/layer/layer.js"></script>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/jquery.twoform.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/swiper.min.js"></script>
+<script src="js/jquery.wechat.js"></script>
+<script src="js/twoform.js"></script>
+<script type="text/javascript">
+    $(".room label").click(function(){
+        $(".room label").removeClass("active");
+        $(this).addClass("active")
+    });
+    $(".car label").click(function(){
+        $(".car label").removeClass("active");
+        $(this).addClass("active")
+    });
+    $(".policy label").click(function(){
+        $(".policy label").removeClass("active");
+        $(this).addClass("active")
+    });
+    $(".Social label").click(function(){
+        $(".Social label").removeClass("active");
+        $(this).addClass("active")
+    });
+    $(".credit label").click(function(){
+        $(".credit label").removeClass("active");
+        $(this).addClass("active")
+    });
+    $(".wages label").click(function(){
+        $(".wages label").removeClass("active");
+        $(this).addClass("active")
+    });
+    $(".fund label").click(function(){
+        $(".fund label").removeClass("active");
+        $(this).addClass("active")
+    });
+
+    $(".form-last label").click(function(){
+        $(".form-last label").removeClass("active-mark");
+        $(this).addClass("active-mark");
+        $(".markInput").css("display","inline-block")
+    });
+
+</script>
+<script>
+    function qiao(){
+        window.open('http://p.qiao.baidu.com/cps/chat?siteId=10184599&userId=22810267');
+    }
+</script>
+</body>
+</html>
+
+
+
+
+        
+        
+        
+        
+        
+        
+        

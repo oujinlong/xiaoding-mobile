@@ -1,0 +1,261 @@
+.mhome{ position: relative; background: #f3f3f3;}
+.wap-piece{ background: #fff; margin-bottom: 10px;border-top: 1px solid #e7e7e7;border-bottom: 1px solid #e7e7e7;}
+.dib{ display: inline-block; vertical-align: middle;}
+/*header start*/
+.anchored-header .header-tel1>img{ height: 28px; width: auto;}
+/*header end*/
+/*banner start*/
+.swiper-slide .banner-box{ width: 100%; display: block;}
+.swiper-slide .banner-box>img{ width: 100%;}
+.swiper-container-horizontal>.swiper-pagination .swiper-pagination-bullet{
+    margin: 0 3px;
+}
+/*banner end*/
+/*advantage start */
+.advantage-piece{border-top: none;}
+.advantage-piece ul{overflow: hidden;padding: 15px 0 7.5px;}
+.advantage-piece ul li{float: left;width: 33.333%;text-align: center;position: relative;}
+.advantage-piece ul li:after{content: '';display: block;position: absolute;width: 1px;height: 80%;background-color: #e7e7e7;right: 0;top: 3px;}
+.advantage-piece ul li:last-child:after{content: none;}
+.advantage-piece ul li>div{text-align: left;color: #555;font-size: 12px;line-height: 1;}
+.advantage-piece ul li>div .num{color: #ff7b22;font-size: 12px;}
+.advantage-piece ul li>div .num font{font-weight: bold;font-size: 14px;position: relative;}
+.advantage-piece ul li>div .num font:after{content: '';position: absolute;background: url("../images/plus.png") no-repeat;background-size: cover;top: -5px;right: -6px;width: 8px;height: 8px;}
+/*advantage end  */
+/*一站到位 start*/
+.big-til{padding: 11px 0;text-align: center;border-bottom: 1px solid #e7e7e7;}
+.big-til h3{color: #565656;font-size: 15px;font-weight: bold;}
+.big-til span{color: #ff7f00;}
+.big-til p{color: #777;font-size: 10px;}
+.one-stop-box{padding: 13px 0;}
+.one-stop-box ul{overflow: hidden;}
+.one-stop-box ul li{float: left;width: 25%;text-align: center;line-height: 1;}
+.one-stop-box ul li i{display: inline-block;width: 65px;height: 60px;background: url("../images/one-stop-icon.png") no-repeat;background-size: cover;}
+.one-stop-box ul li p{color: #565656;font-size: 12px;}
+.one-stop-box ul li .icon2{background-position: -65px 0;}
+.one-stop-box ul li .icon3{background-position: -130px 0;}
+.one-stop-box ul li .icon4{background-position: -195px 0;}
+/*一站到位 end*/
+/*证书代办 start*/
+.certificate-agency ul{overflow: hidden;}
+.certificate-agency ul li{min-height: 121px;float: left;width: 25%;border-left: 1px solid #e7e7e7;text-align: center;line-height: 1;padding: 17px 0;border-bottom: 1px solid #e7e7e7;}
+.certificate-agency ul li:nth-child(4n+1){border-left: none;}
+.certificate-agency ul li:nth-last-child(1),.certificate-agency ul li:nth-last-child(2),.certificate-agency ul li:nth-last-child(3),.certificate-agency ul li:nth-last-child(4){border-bottom: none;}
+.certificate-agency ul li i{display: inline-block;width: 37px;height: 37px;background: url("../images/agency-icon.png") no-repeat;background-size: cover;}
+.certificate-agency ul li p{color: #565656;font-size: 13px;padding: 5px 0 10px;}
+.certificate-agency ul li span{display: inline-block;height:20px;line-height: 18px;border: 1px solid #e1e1e1;border-radius: 20px;color: #999;font-size: 12px;padding: 0 12px; }
+.certificate-agency ul li .icon2{background-position: -37px 0;}
+.certificate-agency ul li .icon3{background-position: -76px 0;}
+.certificate-agency ul li .icon4{background-position: -113px 0;}
+.certificate-agency ul li .icon5{background-position: -150px 0;}
+.certificate-agency ul li .icon6{background-position: -188px 0;}
+.certificate-agency ul li .icon7{background-position: -226px 0;}
+.certificate-agency ul li .icon8{background-position: -263px 0;}
+.certificate-agency ul li .icon9{background-position: -300px 0;}
+.certificate-agency ul li .icon10{background-position: -338px 0;}
+.certificate-agency ul li .icon11{background-position: -376px 0;}
+.certificate-agency ul li .icon12{background-position: -558px 0;width: 50px;height: 50px;}
+.certificate-agency ul li:last-child p{padding-top: 18px;padding-bottom: 0;}
+/*证书代办 end*/
+/*标准化流程 start*/
+.standardization-step{padding: 20px 0 17px;}
+.standardization-step ul{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+}
+.standardization-step ul li{
+    -webkit-flex: 0 0 25%;
+    flex: 0 0 25%;
+    text-align: center;
+}
+.standardization-step ul li i{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url("../images/standardization-step-icon.png") no-repeat;
+    background-size: cover;
+}
+.standardization-step ul li .icon2{
+    background-position: -60px 0;
+}
+.standardization-step ul li .icon3{
+    background-position: -120px 0;
+}
+.standardization-step ul li .icon4{
+    background-position: -180px 0;
+}
+.standardization-step ul li .num{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    line-height: 20px;
+    color: white;
+    margin: 0 auto;
+    background-color: #1bbc9b;
+    font-size: 9px;
+}
+.standardization-step ul li .til{
+    color: #565656;
+    font-size: 13px;
+    padding-top: 2px;
+    margin-bottom: 2px;
+    line-height: 1;
+}
+.standardization-step ul li .info{
+    color: #777;
+    font-size: 10px;
+}
+.btn-tel{
+    width: 70%;
+    margin: 20px auto 0;
+}
+.btn-tel img{
+    width: 100%;
+}
+/*标准化流程 end*/
+/*实力保障 start*/
+.strength-guarantee{
+    padding-top: 16px;
+}
+.strength-guarantee ul{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+.strength-guarantee ul li{
+    -webkit-flex: 0 0 33.333%;
+    flex: 0 0 33.333%;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.strength-guarantee ul li i{
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    background: url("../images/strength-guarantee-icon.png") no-repeat;
+    background-size: cover;
+}
+.strength-guarantee ul li .icon2{
+    background-position: -55px 0;
+}
+.strength-guarantee ul li .icon3{
+    background-position: -110px 0;
+}
+.strength-guarantee ul li .icon4{
+    background-position: -165px 0;
+}
+.strength-guarantee ul li .icon5{
+    background-position: -220px 0;
+}
+.strength-guarantee ul li .icon6{
+    background-position: -275px 0;
+}
+.strength-guarantee ul li .til{
+    color: #565656;
+    font-size: 13px;
+}
+.strength-guarantee ul li .info{
+    color:#777 ;
+    font-size: 10px;
+}
+.strength-guarantee ul li .info span{
+    color: #ff7f00;
+}
+/*实力保障 end*/
+/*了解更多 start*/
+.know-more{
+    padding-top: 2px;
+}
+.know-more ul{}
+.know-more ul li{
+    border-bottom: 1px solid #ebebf1;
+    padding: 14px 9px;
+    overflow: hidden;
+}
+.know-more ul li:last-child{
+    border-bottom: none;
+}
+.know-more ul li img{
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+    margin-top: -3px;
+}
+.know-more ul li span{
+    color: #565656;
+    font-size: 12px;
+    display: inline-block;
+    width: 65%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    vertical-align: middle;
+    margin-top: -3px;
+}
+.know-more ul li a{
+    display: inline-block;
+    vertical-align: middle;
+    color: #f3f3f3;
+    background-color: #1bbc9b;
+    font-size: 10px;
+    height: 22px;
+    line-height: 22px;
+    border-radius: 2px;
+    padding: 0 13px;
+    float: right;
+}
+
+/*了解更多 end*/
+/*底部滑动 start*/
+.eight-advantage-cont{
+    padding: 15px 0;
+}
+.eight-advantage-cont ul {
+    overflow: hidden;
+}
+.eight-advantage-cont ul li{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.eight-advantage-cont ul li .top-img{
+    width: 65px;
+    display: inline-block;
+}
+.eight-advantage-cont ul li .top-img img{
+    width: 100%;
+}
+.eight-advantage-cont ul li p{
+    color: #565656;
+    font-size: 12px;
+    padding-top: 5px;
+}
+/*end*/
+.focusState.header{ position: absolute;}
+.focusState.footer{ position: absolute;}
+.eight-advantage-cont .swiper-pagination-bullet {
+    width: 25px;
+    height: 4px;
+    display: inline-block;
+    background: #999;
+    border-radius: 0;
+}
+.eight-advantage-cont .swiper-pagination-bullet-active {
+    opacity: 1;
+    background: #149c80;
+}
