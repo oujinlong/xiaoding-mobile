@@ -134,7 +134,7 @@ function CheckCode() {
 /*
  *提交信息
  *attr:包裹层属性
- *str: 业态|地区|设备|平台 如：工商|成都|移动端|小顶网 => gs|cd|wap|xdw     xdw=>小顶网  dgg=>顶呱呱
+ *str: 业态|地区|设备|平台 如：工商|成都|移动端|小顶网 => gs|cd|wap|xdw     xdw=>小顶网  dgg=>小顶
  *info:弹出消息框的内容,已设置默认值，传入该参数则表示自定义弹出消息
  *info:为1时则不弹出消息框 submit_msg(attr,str,1)
  *调用示例：
