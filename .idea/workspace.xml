@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38c38647-696d-4003-812a-a1b7d5c60ca4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/wapgsfw_0622/8.html" afterPath="$PROJECT_DIR$/2018/wapgsfw_0622/8.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/wapgsyw_0620/5.html" afterPath="$PROJECT_DIR$/2018/wapgsyw_0620/5.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/wapgsyw_0920/10.html" afterPath="$PROJECT_DIR$/2018/wapgsyw_0920/10.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/wapzx_0920/11.html" afterPath="$PROJECT_DIR$/2018/wapzx_0920/11.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/wapzx_1010/12.html" afterPath="$PROJECT_DIR$/2018/wapzx_1010/12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_downloads.html" afterPath="$PROJECT_DIR$/_downloads.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a_daikuan/css/index.css" afterPath="$PROJECT_DIR$/a_daikuan/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a_daikuan/index.html" afterPath="$PROJECT_DIR$/a_daikuan/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a_hlw/index.html" afterPath="$PROJECT_DIR$/a_hlw/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a_hlwzz/css/index.css" afterPath="$PROJECT_DIR$/a_hlwzz/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a_hlwzz/index.html" afterPath="$PROJECT_DIR$/a_hlwzz/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a_hlwzz/js/wy2.js" afterPath="$PROJECT_DIR$/a_hlwzz/js/wy2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a_zhishi/index.html" afterPath="$PROJECT_DIR$/a_zhishi/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a_zizhi/index.html" afterPath="$PROJECT_DIR$/a_zizhi/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dkwap/index.html" afterPath="$PROJECT_DIR$/dkwap/index.html" />
@@ -841,51 +838,33 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+            <state relative-caret-position="525">
+              <caret line="327" column="26" lean-forward="false" selection-start-line="311" selection-start-column="15" selection-end-line="327" selection-end-column="26" />
+              <folding>
+                <marker date="1556097900629" expanded="false" signature="12655:12669" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dkwap/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="389" column="58" lean-forward="true" selection-start-line="389" selection-start-column="58" selection-end-line="389" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php-m=content&amp;c=index&amp;a=lists&amp;catid=67.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=67.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wapzx/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="116" column="12" lean-forward="false" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php-m=content&amp;c=index&amp;a=lists&amp;catid=78.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=78.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="123" column="22" lean-forward="false" selection-start-line="94" selection-start-column="11" selection-end-line="123" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php-m=content&amp;c=index&amp;a=lists&amp;catid=79.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=79.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="151" column="20" lean-forward="false" selection-start-line="145" selection-start-column="16" selection-end-line="151" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php-m=content&amp;c=index&amp;a=lists&amp;catid=72.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=72.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="-3007">
+              <caret line="32" column="54" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -894,8 +873,30 @@
       <file leaf-file-name="index.php-m=content&amp;c=index&amp;a=lists&amp;catid=66.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=66.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="115" column="16" lean-forward="false" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+            <state relative-caret-position="368">
+              <caret line="153" column="10" lean-forward="true" selection-start-line="153" selection-start-column="10" selection-end-line="153" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="698">
+              <caret line="661" column="0" lean-forward="true" selection-start-line="661" selection-start-column="0" selection-end-line="661" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show-39-119-1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/show-39-119-1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -904,28 +905,18 @@
       <file leaf-file-name="8.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018/wapgsfw_0622/8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="53" lean-forward="false" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+            <state relative-caret-position="218">
+              <caret line="32" column="54" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018/wapgsyw_0620/5.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a_zizhi/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="224" column="24" lean-forward="false" selection-start-line="224" selection-start-column="24" selection-end-line="224" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018/wapgsyw_0920/10.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="734">
-              <caret line="224" column="57" lean-forward="true" selection-start-line="224" selection-start-column="57" selection-end-line="224" selection-end-column="57" />
+            <state relative-caret-position="132">
+              <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -934,8 +925,18 @@
       <file leaf-file-name="list-62-1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list-62-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-653">
-              <caret line="99" column="16" lean-forward="false" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
+            <state relative-caret-position="323">
+              <caret line="109" column="107" lean-forward="true" selection-start-line="109" selection-start-column="107" selection-end-line="109" selection-end-column="107" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show-39-89-1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/show-39-89-1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="200" column="0" lean-forward="true" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -945,36 +946,49 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hlw</find>
-      <find>chanpion</find>
-      <find>champion</find>
-      <find>champio</find>
-      <find>champi</find>
-      <find>champ</find>
-      <find>cham</find>
-      <find>cha</find>
-      <find>chan</find>
-      <find>s</find>
-      <find>北京</find>
-      <find>北京顶呱呱</find>
-      <find>d</find>
-      <find>顶呱呱</find>
-      <find>产品</find>
-      <find>\&lt;div class\=\&quot;part\&quot;\&gt;\n                \&lt;div class\=\&quot;text other\-style\&quot;\&gt;\n                    \&lt;b class\=\&quot;dib\&quot;\&gt;产品中心\&lt;\/b\&gt;\n                    \&lt;span class\=\&quot;dib\&quot;\&gt;Product Center\&lt;\/span\&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;clear product\&quot;\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=70\.html\&quot; class\=\&quot;dib left\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_03\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=70\&amp;amp\;kj\.html\&quot; class\=\&quot;dib\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_05\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=68\.html\&quot; class\=\&quot;dib left\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_09\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=68\&amp;amp\;xy\.html\&quot; class\=\&quot;dib\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_11\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                  \n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=71\.html\&quot; class\=\&quot;dib\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_14\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                  \&lt;\!\-\-  \&lt;a href\=\&quot;\/index\.php\?m\=content\&amp;c\=index\&amp;a\=lists\&amp;catid\=72\&quot; class\=\&quot;dib left\&quot;\&gt;\n                        \&lt;img src\=\&quot;\/statics\/wap\/images\/public\/hidea_18\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\-\-\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=67\.html\&quot; class\=\&quot;dib\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_19\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;</find>
-      <find>\&lt;a class\=\&quot;part clear dib\&quot; href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=66\.html\&quot;\&gt;\n                \&lt;div class\=\&quot;text fl\&quot;\&gt;\n                    \&lt;b class\=\&quot;dib\&quot;\&gt;关于我们\&lt;\/b\&gt;\n                            \&lt;span class\=\&quot;dib\&quot;\&gt;About me\&lt;\/span\&gt;\n                \&lt;\/div\&gt;\n                \&lt;i class\=\&quot;fr dib icon\&quot;\&gt;\&lt;\/i\&gt;\n            \&lt;\/a\&gt;</find>
-      <find>&lt;a class=&quot;part clear dib&quot; href=&quot;index.php-m=content&amp;amp;c=index&amp;amp;a=lists&amp;amp;catid=66.html&quot;&gt;                &lt;div class=&quot;text fl&quot;&gt;                    &lt;b class=&quot;dib&quot;&gt;关于我们&lt;/b&gt;                            &lt;span class=&quot;dib&quot;&gt;About me&lt;/span&gt;                &lt;/div&gt;                &lt;i class=&quot;fr dib icon&quot;&gt;&lt;/i&gt;            &lt;/a&gt;</find>
-      <find>&lt;a class=&quot;part clear dib&quot; href=&quot;index.php-m=content&amp;amp;c=index&amp;amp;a=lists&amp;amp;catid=66.html&quot;&gt;                &lt;div class=&quot;text fl&quot;&gt;                    &lt;b class=&quot;dib&quot;&gt;关于我们&lt;/b&gt;                            &lt;span class=&quot;dib&quot;&gt;About me&lt;/span&gt;                &lt;/div&gt;                &lt;i class=&quot;fr dib icon&quot;&gt;&lt;/i&gt;            &lt;/a&gt;</find>
-      <find>\&lt;a class\=\&quot;part clear dib\&quot; href\=\&quot;html\/wapgywm\/index\.html\&quot;\&gt;\n            \&lt;div class\=\&quot;text fl\&quot;\&gt;\n                \&lt;b class\=\&quot;dib\&quot;\&gt;关于我们\&lt;\/b\&gt;\n                \&lt;span class\=\&quot;dib\&quot;\&gt;About me\&lt;\/span\&gt;\n            \&lt;\/div\&gt;\n            \&lt;i class\=\&quot;fr dib icon\&quot;\&gt;\&lt;\/i\&gt;\n        \&lt;\/a\&gt;</find>
-      <find>产品中心</find>
-      <find>\&lt;a class\=\&quot;part clear dib\&quot; href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=66\.html\&quot;\&gt;\n                \&lt;div class\=\&quot;text fl\&quot;\&gt;\n                    \&lt;b class\=\&quot;dib\&quot;\&gt;关于我们\&lt;\/b\&gt;\n                            \&lt;span class\=\&quot;dib\&quot;\&gt;About me\&lt;\/span\&gt;\n                \&lt;\/div\&gt;\n                \&lt;i class\=\&quot;fr dib icon\&quot;\&gt;\&lt;\/i\&gt;\n            \&lt;\/a\&gt;</find>
+      <find>商桥代码</find>
+      <find>商桥</find>
+      <find>在线咨询</find>
+      <find>\&lt;\!\-\-商桥代码start\-\-\&gt;\n\&lt;script\&gt;\n    function qiao\(\)\{\n        window\.open\(\'http\:\/\/p\.qiao\.baidu\.com\/cps\/chat\?siteId\=12078809\&amp;userId\=22810267\'\)\;\n    \}\n\&lt;\/script\&gt;\n\&lt;script\&gt;\n    var _hmt \= _hmt \|\| \[\]\;\n    \(function\(\) \{\n        var hm \= document\.createElement\(\&quot;script\&quot;\)\;\n        hm\.src \= \&quot;https\:\/\/hm\.baidu\.com\/hm\.js\?285db59b7e81c032bb9b696434a4e4a0\&quot;\;\n        var s \= document\.getElementsByTagName\(\&quot;script\&quot;\)\[0\]\;\n        s\.parentNode\.insertBefore\(hm\, s\)\;\n    \}\)\(\)\;\n\&lt;\/script\&gt;\n\&lt;script src\=\&quot;http\:\/\/www\.cddgg\.com\/com_code\/message\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;http\:\/\/www\.cddgg\.com\/com_code\/layer\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;http\:\/\/www\.cddgg\.com\/com_code\/layer\/layer\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\!\-\-商桥代码end\-\-\&gt;</find>
+      <find>http://p.qiao.baidu.com</find>
+      <find>b</find>
+      <find>ba</find>
+      <find>baidu</find>
+      <find>zct_wap</find>
+      <find>&lt;div class=&quot;clear product&quot;&gt;                    &lt;a href=&quot;index.php-m=content&amp;amp;c=index&amp;amp;a=lists&amp;amp;catid=70.html&quot; class=&quot;dib left&quot;&gt;                        &lt;img src=&quot;statics/wap/images/public/hidea_03.jpg&quot; alt=&quot;&quot;/&gt;                    &lt;/a&gt;                    &lt;a href=&quot;index.php-m=content&amp;amp;c=index&amp;amp;a=lists&amp;amp;catid=70&amp;amp;kj.html&quot; class=&quot;dib&quot;&gt;                        &lt;img src=&quot;statics/wap/images/public/hidea_05.jpg&quot; alt=&quot;&quot;/&gt;                    &lt;/a&gt;                    &lt;a href=&quot;index.php-m=content&amp;amp;c=index&amp;amp;a=lists&amp;amp;catid=68.html&quot; class=&quot;dib left&quot;&gt;                        &lt;img src=&quot;statics/wap/images/public/hidea_09.jpg&quot; alt=&quot;&quot;/&gt;                    &lt;/a&gt;                    &lt;a href=&quot;index.php-m=content&amp;amp;c=index&amp;amp;a=lists&amp;amp;catid=68&amp;amp;xy.html&quot; class=&quot;dib&quot;&gt;                        &lt;img src=&quot;statics/wap/images/public/hidea_11.jpg&quot; alt=&quot;&quot;/&gt;                    &lt;/a&gt;                                      &lt;a href=&quot;index.php-m=content&amp;amp;c=index&amp;amp;a=lists&amp;amp;catid=71.html&quot; class=&quot;dib&quot;&gt;                        &lt;img src=&quot;statics/wap/images/public/hidea_14.jpg&quot; alt=&quot;&quot;/&gt;                    &lt;/a&gt;                  &lt;!--  &lt;a href=&quot;/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=72&quot; class=&quot;dib left&quot;&gt;                        &lt;img src=&quot;/statics/wap/images/public/hidea_18.jpg&quot; alt=&quot;&quot;/&gt;                    &lt;/a&gt;--&gt;                    &lt;a href=&quot;index.php-m=content&amp;amp;c=index&amp;amp;a=lists&amp;amp;catid=67.html&quot; class=&quot;dib&quot;&gt;                        &lt;img src=&quot;statics/wap/images/public/hidea_19.jpg&quot; alt=&quot;&quot;/&gt;                    &lt;/a&gt;                &lt;/div&gt;</find>
+      <find>\&lt;div class\=\&quot;clear product\&quot;\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=70\.html\&quot; class\=\&quot;dib left\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_03\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=70\&amp;amp\;kj\.html\&quot; class\=\&quot;dib\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_05\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=68\.html\&quot; class\=\&quot;dib left\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_09\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=68\&amp;amp\;xy\.html\&quot; class\=\&quot;dib\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_11\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                  \n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=71\.html\&quot; class\=\&quot;dib\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_14\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                  \&lt;\!\-\-  \&lt;a href\=\&quot;\/index\.php\?m\=content\&amp;c\=index\&amp;a\=lists\&amp;catid\=72\&quot; class\=\&quot;dib left\&quot;\&gt;\n                        \&lt;img src\=\&quot;\/statics\/wap\/images\/public\/hidea_18\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\-\-\&gt;\n                    \&lt;a href\=\&quot;index\.php\-m\=content\&amp;amp\;c\=index\&amp;amp\;a\=lists\&amp;amp\;catid\=67\.html\&quot; class\=\&quot;dib\&quot;\&gt;\n                        \&lt;img src\=\&quot;statics\/wap\/images\/public\/hidea_19\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\n                    \&lt;\/a\&gt;\n                \&lt;\/div\&gt;</find>
+      <find>4</find>
+      <find>400-1878766</find>
+      <find>400187</find>
+      <find>40018</find>
+      <find>4001</find>
+      <find>400</find>
+      <find>400-</find>
+      <find>400-187</find>
+      <find>400-18780</find>
+      <find>400-1878</find>
+      <find>400-1878-</find>
+      <find>400-1878-76</find>
+      <find>400-1878-766</find>
+      <find>r</find>
+      <find>rong</find>
+      <find>rong zi dai k</find>
+      <find>rong zi dai ku</find>
+      <find>rong zi dai kuan</find>
+      <find>融资贷款</find>
     </findStrings>
     <replaceStrings>
       <replace>南京小顶</replace>
       <replace>小顶</replace>
+      <replace>如：创业</replace>
+      <replace>// window.open('http://p.qiao.baidu.com/cps/chat?siteId=10184599&amp;userId=22810267');</replace>
       <replace />
-      <replace />
-      <replace />
+      <replace>18963646677</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/img</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -982,16 +996,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.php.html" />
         <option value="$PROJECT_DIR$/2018/wapgsyw_0620/5.html" />
         <option value="$PROJECT_DIR$/2018/wapgsyw_0920/10.html" />
-        <option value="$PROJECT_DIR$/list-62-1.html" />
-        <option value="$PROJECT_DIR$/2018/wapgsfw_0622/8.html" />
         <option value="$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=78.html" />
         <option value="$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=79.html" />
-        <option value="$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=66.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=67.html" />
+        <option value="$PROJECT_DIR$/a_zizhi/index.html" />
+        <option value="$PROJECT_DIR$/show-39-43-1.html" />
+        <option value="$PROJECT_DIR$/show-39-125-1.html" />
+        <option value="$PROJECT_DIR$/show-39-100-1.html" />
+        <option value="$PROJECT_DIR$/show-39-119-1.html" />
+        <option value="$PROJECT_DIR$/wapzx/index.html" />
+        <option value="$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=66.html" />
+        <option value="$PROJECT_DIR$/index.php.html" />
+        <option value="$PROJECT_DIR$/dkwap/index.html" />
+        <option value="$PROJECT_DIR$/list-62-1.html" />
+        <option value="$PROJECT_DIR$/2018/wapgsfw_0622/8.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -1002,7 +1023,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
+    <option name="x" value="19" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="973" />
@@ -1023,6 +1044,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1037,8 +1060,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1142,27 +1163,28 @@
       <updated>1554049192495</updated>
       <workItem from="1554049193863" duration="1459000" />
       <workItem from="1554478176773" duration="409000" />
-      <workItem from="1555142286513" duration="2000000" />
+      <workItem from="1555142286513" duration="2220000" />
+      <workItem from="1556094894190" duration="2732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3868000" />
+    <option name="totallyTimeSpent" value="6820000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="23" width="1680" height="973" extended-state="0" />
+    <frame x="19" y="23" width="1680" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32429174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1178,15 +1200,101 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2115">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <marker date="1556097900629" expanded="false" signature="12655:12669" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=78.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="22" lean-forward="false" selection-start-line="94" selection-start-column="11" selection-end-line="123" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=79.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2265">
+          <caret line="151" column="20" lean-forward="false" selection-start-line="145" selection-start-column="16" selection-end-line="151" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=72.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=66.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="115" column="16" lean-forward="false" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/wapgsfw_0622/8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="53" lean-forward="false" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/wapgsyw_0620/5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="224" column="24" lean-forward="false" selection-start-line="224" selection-start-column="24" selection-end-line="224" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/wapgsyw_0920/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="224" column="57" lean-forward="true" selection-start-line="224" selection-start-column="57" selection-end-line="224" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-62-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" column="16" lean-forward="false" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=67.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" column="37" lean-forward="true" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="55" lean-forward="false" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-          <folding />
+          <folding>
+            <marker date="1556097900629" expanded="false" signature="12655:12669" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1204,7 +1312,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="55" lean-forward="false" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-          <folding />
+          <folding>
+            <marker date="1556097900629" expanded="false" signature="12655:12669" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1216,6 +1326,74 @@
             <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/shangmen/images/image_01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/wapgsyw_0620/5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="224" column="24" lean-forward="false" selection-start-line="224" selection-start-column="24" selection-end-line="224" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/wapgsyw_0920/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="224" column="57" lean-forward="true" selection-start-line="224" selection-start-column="57" selection-end-line="224" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=78.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="22" lean-forward="false" selection-start-line="94" selection-start-column="11" selection-end-line="123" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=79.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2265">
+          <caret line="151" column="20" lean-forward="false" selection-start-line="145" selection-start-column="16" selection-end-line="151" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=72.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=67.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="122" column="39" lean-forward="true" selection-start-line="122" selection-start-column="39" selection-end-line="122" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/wap/images/public/hidea_19.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/wap/images/public/hidea_18.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/public/yxqcf.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/public/yxqdk.jpg">
@@ -1243,103 +1421,120 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/shangmen/images/image_01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/public/yxqcf.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php.html">
+    <entry file="file://$PROJECT_DIR$/show-39-43-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="275">
+          <caret line="185" column="19" lean-forward="false" selection-start-line="185" selection-start-column="19" selection-end-line="185" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show-39-125-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="184" column="70" lean-forward="false" selection-start-line="184" selection-start-column="70" selection-end-line="184" selection-end-column="70" />
           <folding>
-            <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#26;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#26;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018/wapgsyw_0620/5.html">
+    <entry file="file://$PROJECT_DIR$/show-39-100-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="224" column="24" lean-forward="false" selection-start-line="224" selection-start-column="24" selection-end-line="224" selection-end-column="24" />
+        <state relative-caret-position="464">
+          <caret line="194" column="24" lean-forward="true" selection-start-line="194" selection-start-column="24" selection-end-line="194" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#span#0;n#p#0;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#br#0;n#span#0;n#p#0;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show-39-119-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018/wapgsyw_0920/10.html">
+    <entry file="file://$PROJECT_DIR$/wapzx/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="224" column="57" lean-forward="true" selection-start-line="224" selection-start-column="57" selection-end-line="224" selection-end-column="57" />
+        <state relative-caret-position="-3007">
+          <caret line="32" column="54" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list-62-1.html">
+    <entry file="file://$PROJECT_DIR$/a_zizhi/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-653">
-          <caret line="99" column="16" lean-forward="false" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
+        <state relative-caret-position="132">
+          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018/wapgsfw_0622/8.html">
+    <entry file="file://$PROJECT_DIR$/show-39-89-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="53" lean-forward="false" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=78.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="123" column="22" lean-forward="false" selection-start-line="94" selection-start-column="11" selection-end-line="123" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=79.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="151" column="20" lean-forward="false" selection-start-line="145" selection-start-column="16" selection-end-line="151" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=72.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="452">
+          <caret line="200" column="0" lean-forward="true" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=66.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="115" column="16" lean-forward="false" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+        <state relative-caret-position="368">
+          <caret line="153" column="10" lean-forward="true" selection-start-line="153" selection-start-column="10" selection-end-line="153" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="661" column="0" lean-forward="true" selection-start-line="661" selection-start-column="0" selection-end-line="661" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dkwap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="389" column="58" lean-forward="true" selection-start-line="389" selection-start-column="58" selection-end-line="389" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-62-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="109" column="107" lean-forward="true" selection-start-line="109" selection-start-column="107" selection-end-line="109" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/wapgsfw_0622/8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="32" column="54" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php-m=content&amp;c=index&amp;a=lists&amp;catid=67.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="116" column="12" lean-forward="false" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="525">
+          <caret line="327" column="26" lean-forward="false" selection-start-line="311" selection-start-column="15" selection-end-line="327" selection-end-column="26" />
+          <folding>
+            <marker date="1556097900629" expanded="false" signature="12655:12669" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
